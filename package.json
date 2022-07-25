@@ -28,12 +28,21 @@
     "svelte-check": "^2.2.6",
     "svelte-preprocess": "^4.10.1",
     "tslib": "^2.3.1",
-    "typescript": "~4.6.2"
+    "typescript": "~4.6.2",
+    "tailwindcss": "^2.2.10",
+    "cross-env": "^7.0.3",
+    "postcss-cli": "^8.3.1"
   },
   "type": "module",
   "dependencies": {
     "@fontsource/fira-mono": "^4.5.0",
     "@lukeed/uuid": "^2.0.0",
-    "cookie": "^0.4.1"
+    "cookie": "^0.4.1",
+    "daisyui": "^1.14.0",
+    "file-saver": "^2.0.5",
+    "moment": "^2.29.1",
+    "sheetjs-style": "^0.15.8",
+    "uuid": "^8.3.2",
+    "xlsx": "^0.17.3"
   }
 }
